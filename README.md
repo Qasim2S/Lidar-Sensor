@@ -28,8 +28,7 @@ My goal was to innovate how we measure rooms are large spaces, rather than uteli
 ## Images
 <br />
 
-<img align = Right width="50%" alt="image" src=https://github.com/Qasim2S/Lidar-Sensor/assets/106550804/915c6bbf-73f9-43b6-9a55-4e8b2dd69294>
-<img align = Left width="50%" alt="image" src=https://github.com/Qasim2S/Lidar-Sensor/assets/106550804/e3c77a59-791e-4c08-84cc-f340775ebc09>
+<img align = Right width="50%" alt="image" src=https://github.com/Qasim2S/Lidar-Sensor/assets/106550804/915c6bbf-73f9-43b6-9a55-4e8b2dd69294, img align = Left width="50%" alt="image" src=https://github.com/Qasim2S/Lidar-Sensor/assets/106550804/e3c77a59-791e-4c08-84cc-f340775ebc09>
 
 
 
