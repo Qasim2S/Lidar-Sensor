@@ -10,6 +10,9 @@ The UFG4G89F23 Lidar Sensor is secured in a strong box with holes allowing the w
 
 The Lidar sensor system sends the data collected to the PC via UART, where the data is converted into cartesian points. These points are then used to create a 3D visualization by plotting the points. The whole system is controlled by the user by a press of a button
 
+<br />
+<img align = left width="50%" alt="image" src=https://github.com/Qasim2S/Lidar-Sensor/assets/106550804/66041e25-86b6-4e65-9346-e47a77c1ddcc>
+
 ## Goal
 My goal was to innovate how we measure rooms are large spaces, rather than utelizing measuring tape, this device is able to generate a scan model of a room. This technology is innovative for home application, architecture, and even archaeology due to the precise measurements and detailed 3D model generated from the measurements. 
 
@@ -21,7 +24,6 @@ My goal was to innovate how we measure rooms are large spaces, rather than uteli
 * Data visualization via Open3D and python
 
 ## Images
-![image](https://github.com/Qasim2S/Lidar-Sensor/assets/106550804/66041e25-86b6-4e65-9346-e47a77c1ddcc)
 ![image](https://github.com/Qasim2S/Lidar-Sensor/assets/106550804/915c6bbf-73f9-43b6-9a55-4e8b2dd69294)
 ![image](https://github.com/Qasim2S/Lidar-Sensor/assets/106550804/e3c77a59-791e-4c08-84cc-f340775ebc09)
 
